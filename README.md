@@ -1,2 +1,2 @@
 <h1>Justice Culp<h1/>
-<a href="prototype.html">Gordo project<a/>
+<a href="prototype.md">Gordo project<a/>
